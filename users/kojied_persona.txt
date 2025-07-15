@@ -1,0 +1,63 @@
+## User Persona: u/kojied
+
+**Age:** 30-35 (inferred from references to living in NYC for three years, the "intern season" post suggesting a contrast with younger crowds, and general life experiences reflected in posts)
+
+**Occupation:** iOS Developer specializing in spatial computing (VisionOS).  Likely works in tech, potentially with a company involved in AR/VR development. The posts about ESG scores and financial planning suggest a financially comfortable position.
+
+**Location:** New York City, NY (explicitly stated in multiple posts).
+
+**Archetype:** Analyst/Creator.  Displays analytical thinking in many posts (ESG scoring, financial planning, technical discussions), but also demonstrates a creative side through interest in AR/VR development and entertainment media.
+
+**Online Behavior:**  Active on Reddit across diverse subreddits, indicating broad interests.  Participates in discussions, asks questions, shares opinions, and occasionally offers expertise (iOS development, spatial computing).  Uses Reddit for professional development, entertainment, and social interaction.  He posts image mockups of his own ideas, suggesting a proactive and project-oriented approach.
+
+**Interests:**
+
+* **Technology:**  Specifically iOS development, VisionOS/spatial computing, AR/VR technology, and emerging tech trends.  (https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/, https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/, https://www.reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/, https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/, https://www.reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/, https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/, https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/)
+* **Finance:** Investing, financial planning, ESG scores. (https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/, https://www.reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/, https://www.reddit.com/r/Webull/comments/flf90r/50k_at_a_time/, https://www.reddit.com/r/wallstreetbets/comments/fhp5ae/crazy_gains_what_now_should_i_cash_out_or_double/, https://www.reddit.com/r/wallstreetbets/comments/fddw2r/looking_beyond/)
+* **Pop Culture:** Anime (Edgerunners), movies. (https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/, https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/)
+* **Gaming:**  Project Zomboid (https://www.reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/)
+* **Politics/Social Issues:**  Expresses opinions on various topics, including H1-B visas, TikTok bans, and referee inconsistencies in the NBA. (https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/, https://www.reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/, https://www.reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/, https://www.reddit.com/r/Conservative/comments/1h8ddbp/are_you_guys_foragainst_banning_tiktok_in_the_us/)
+* **Hobbies:** Houseplants (https://www.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/, https://www.reddit.com/r/plantclinic/comments/16dlrdq/creepy_charlie_with_dead_leaves_is_this_normal/, https://www.reddit.com/r/plantclinic/comments/15pvycv/english_ivy_in_critical_condition/), cycling (https://www.reddit.com/r/NYCbike/comments/16n85uj/informative_documentary_video_on_youtube/), and potentially creative writing (although less evident).
+* **Anime & Manga:** One Piece (https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/)
+
+**Motivations:**
+
+* Professional development in the field of spatial computing.
+* Financial security and growth.
+* Understanding and contributing to broader social and environmental issues.
+*  Improving his own life through mindful consumption (Frugal subreddit)
+* Engaging in intellectual pursuits (One Piece theory).
+
+**Frustrations:**
+
+* Ageism/generational clashes. (https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/)
+* Technological limitations (lack of Xcode in Vision Pro). (https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/)
+* Inefficiencies in financial systems (Webull transfer limits). (https://www.reddit.com/r/Webull/comments/flf90r/50k_at_a_time/)
+*  Lack of consumer awareness regarding ESG scores. (https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/)
+* Unresponsive customer service (Lyft). (https://www.reddit.com/r/Lyft/comments/166ksv7/lyft_bike_on_the_loose_support_team_will_email_me/)
+* Difficulty with houseplants. (Multiple plantclinic posts)
+
+
+**Goals:**
+
+* Advance his career in spatial computing.
+* Achieve financial stability and potentially wealth.
+* Increase awareness of ESG issues and promote sustainable practices.
+* Create a useful app to track purchase gratification.
+* Improve his houseplant care skills.
+
+
+**Personality Traits:**
+
+* Analytical:  Demonstrates a strong analytical mind, evident in his posts on finance, technology, and social issues.
+* Introspective:  Reflects on his own experiences and perspectives, as seen in his post about intern season and his posts about personal finance.
+* Proactive:  Actively seeks solutions to problems and develops his own projects (app idea, Vision Pro suggestions).
+* Inquisitive:  Asks many questions and seeks information across various fields.
+* Pragmatic:  Balances idealism with practicality, as evidenced in his posts about the H1-B visa issue and his approach to financial planning.  He's also realistic about the limitations of current technology.
+
+**Writing Style:**
+
+Generally clear and concise, though occasionally verbose when explaining technical concepts or complex ideas.  Uses bullet points and formatting to organize thoughts.  Occasionally uses informal language and humor.  His writing suggests a high level of education.
+
+
+This persona provides a comprehensive overview of u/kojied based on the provided data.  Further Reddit activity could refine and expand this profile.
