@@ -219,11 +219,3 @@ License
 
 This project is provided as part of a coding assignment. All intellectual property belongs to the author unless the assignment is accepted and ownership is transferred as part of the hiring process.
 
-Contact
-
-For any questions, please reach out via Internshala or the official hiring channel at BeyondChats.
-
-
----
-
-You can now paste this directly into your `README.md` file in the project root. Let me know if you'd like help converting this into PDF format, or cleaning your repo before pushing to GitHub.
